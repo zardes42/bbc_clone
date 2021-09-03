@@ -1,0 +1,16 @@
+.white{
+    background-color:white;
+}
+.black {
+    background-color:#777;
+}
+.test{
+    height:  2000px;
+}
+.l-r{
+        padding:0 20px;
+        border-left: 0.01rem solid #eee;
+}
+.headers{
+    font-size: 25px;
+}
